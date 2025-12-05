@@ -162,12 +162,6 @@ Expected error: **Insufficient balance**
 📸 **Screenshot Name:**  
 `09_failed_test.png`
 
----
-
-## 📁 Folder Structure (for Submission)
-
-
----
 
 ## ✔ What This Project Demonstrates
 
@@ -178,7 +172,5 @@ Expected error: **Insufficient balance**
 - Event logs + revert conditions  
 - Understanding of token balances and allowances  
 
-This README fully satisfies your assignment requirements.
 
----
 
